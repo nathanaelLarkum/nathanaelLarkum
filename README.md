@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a student at university <br>I'm working on a web dev framework using npx to call next.js components 
+# Hi, I'm Nathanael:
+I'm a university student, web developer, information security support staff, and passionate IT enthusiast.   
 
 
 ## 🌐 Socials:
